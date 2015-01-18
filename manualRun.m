@@ -1,0 +1,1 @@
+addpath('/home/eecs/edmundye/psiCode'); addpath(genpath('/home/eecs/edmundye/psiCode/voc-release5')); global onCluster useDepth trunc patch parts components; onCluster = 1; useDepth = 1; trunc = 1; patch = 41; parts = 0; components = 1; startup; pascal('box');

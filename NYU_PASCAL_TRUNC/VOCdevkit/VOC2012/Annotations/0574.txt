@@ -1,0 +1,90 @@
+# PASCAL Annotation Version 1.00
+
+Image filename : "VOC2012/Images/0574.jpg"
+Image size (X x Y x C) : 560 x 425 x 3
+Database : "NYU Depth"
+Objects with ground truth : 13 { "PASbottle" "PAScabinet" "PAScounter" "PASwall" "PASsink" "PASclock" "PASjar" "PASpaper towel" "PAStowel" "PASplate" "PASplate" "PASsponge" "PASdrying rack" }
+
+# Note that there might be other objects in the image
+# for which ground truth data has not been provided.
+
+# Top left pixel co-ordinates : (0, 0)
+
+# Details for object 1 ("PASbottle")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 1 "PASbottle" : "PASbottle"
+Bounding box for object 1 "PASbottle" (Xmin, Ymin) - (Xmax, Ymax) : (142, 263) - (177, 376)
+
+# Details for object 2 ("PAScabinet")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 2 "PAScabinet" : "PAScabinet"
+Bounding box for object 2 "PAScabinet" (Xmin, Ymin) - (Xmax, Ymax) : (1, 1) - (499, 72)
+
+# Details for object 3 ("PAScounter")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 3 "PAScounter" : "PAScounter"
+Bounding box for object 3 "PAScounter" (Xmin, Ymin) - (Xmax, Ymax) : (29, 313) - (560, 425)
+
+# Details for object 4 ("PASwall")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 4 "PASwall" : "PASwall"
+Bounding box for object 4 "PASwall" (Xmin, Ymin) - (Xmax, Ymax) : (1, 1) - (560, 371)
+
+# Details for object 5 ("PASsink")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 5 "PASsink" : "PASsink"
+Bounding box for object 5 "PASsink" (Xmin, Ymin) - (Xmax, Ymax) : (116, 281) - (521, 425)
+
+# Details for object 6 ("PASclock")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 6 "PASclock" : "PASclock"
+Bounding box for object 6 "PASclock" (Xmin, Ymin) - (Xmax, Ymax) : (1, 410) - (4, 425)
+
+# Details for object 7 ("PASjar")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 7 "PASjar" : "PASjar"
+Bounding box for object 7 "PASjar" (Xmin, Ymin) - (Xmax, Ymax) : (262, 355) - (351, 425)
+
+# Details for object 8 ("PASpaper towel")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 8 "PASpaper towel" : "PASpaper towel"
+Bounding box for object 8 "PASpaper towel" (Xmin, Ymin) - (Xmax, Ymax) : (349, 70) - (469, 132)
+
+# Details for object 9 ("PAStowel")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 9 "PAStowel" : "PAStowel"
+Bounding box for object 9 "PAStowel" (Xmin, Ymin) - (Xmax, Ymax) : (253, 289) - (329, 363)
+
+# Details for object 10 ("PASplate")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 10 "PASplate" : "PASplate"
+Bounding box for object 10 "PASplate" (Xmin, Ymin) - (Xmax, Ymax) : (436, 207) - (515, 291)
+
+# Details for object 11 ("PASplate")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 11 "PASplate" : "PASplate"
+Bounding box for object 11 "PASplate" (Xmin, Ymin) - (Xmax, Ymax) : (371, 231) - (442, 270)
+
+# Details for object 12 ("PASsponge")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 12 "PASsponge" : "PASsponge"
+Bounding box for object 12 "PASsponge" (Xmin, Ymin) - (Xmax, Ymax) : (185, 324) - (238, 354)
+
+# Details for object 13 ("PASdrying rack")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 13 "PASdrying rack" : "PASdrying rack"
+Bounding box for object 13 "PASdrying rack" (Xmin, Ymin) - (Xmax, Ymax) : (362, 261) - (560, 355)
+

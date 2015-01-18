@@ -1,0 +1,72 @@
+# PASCAL Annotation Version 1.00
+
+Image filename : "VOC2012/Images/1033.jpg"
+Image size (X x Y x C) : 560 x 425 x 3
+Database : "NYU Depth"
+Objects with ground truth : 10 { "PASbottle" "PASfloor" "PASwall" "PASwall" "PASpillow" "PASpillow" "PASclothes" "PASlamp" "PASbed" "PASnight stand" }
+
+# Note that there might be other objects in the image
+# for which ground truth data has not been provided.
+
+# Top left pixel co-ordinates : (0, 0)
+
+# Details for object 1 ("PASbottle")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 1 "PASbottle" : "PASbottle"
+Bounding box for object 1 "PASbottle" (Xmin, Ymin) - (Xmax, Ymax) : (446, 72) - (465, 114)
+
+# Details for object 2 ("PASfloor")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 2 "PASfloor" : "PASfloor"
+Bounding box for object 2 "PASfloor" (Xmin, Ymin) - (Xmax, Ymax) : (1, 298) - (560, 425)
+
+# Details for object 3 ("PASwall")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 3 "PASwall" : "PASwall"
+Bounding box for object 3 "PASwall" (Xmin, Ymin) - (Xmax, Ymax) : (4, 1) - (365, 127)
+
+# Details for object 4 ("PASwall")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 4 "PASwall" : "PASwall"
+Bounding box for object 4 "PASwall" (Xmin, Ymin) - (Xmax, Ymax) : (364, 1) - (560, 378)
+
+# Details for object 5 ("PASpillow")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 5 "PASpillow" : "PASpillow"
+Bounding box for object 5 "PASpillow" (Xmin, Ymin) - (Xmax, Ymax) : (297, 121) - (387, 162)
+
+# Details for object 6 ("PASpillow")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 6 "PASpillow" : "PASpillow"
+Bounding box for object 6 "PASpillow" (Xmin, Ymin) - (Xmax, Ymax) : (314, 84) - (357, 118)
+
+# Details for object 7 ("PASclothes")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 7 "PASclothes" : "PASclothes"
+Bounding box for object 7 "PASclothes" (Xmin, Ymin) - (Xmax, Ymax) : (424, 134) - (530, 206)
+
+# Details for object 8 ("PASlamp")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 8 "PASlamp" : "PASlamp"
+Bounding box for object 8 "PASlamp" (Xmin, Ymin) - (Xmax, Ymax) : (395, 108) - (470, 197)
+
+# Details for object 9 ("PASbed")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 9 "PASbed" : "PASbed"
+Bounding box for object 9 "PASbed" (Xmin, Ymin) - (Xmax, Ymax) : (1, 82) - (433, 359)
+
+# Details for object 10 ("PASnight stand")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 10 "PASnight stand" : "PASnight stand"
+Bounding box for object 10 "PASnight stand" (Xmin, Ymin) - (Xmax, Ymax) : (390, 177) - (533, 349)
+

@@ -1,0 +1,48 @@
+# PASCAL Annotation Version 1.00
+
+Image filename : "VOC2012/Images/1135.jpg"
+Image size (X x Y x C) : 560 x 425 x 3
+Database : "NYU Depth"
+Objects with ground truth : 6 { "PASfloor" "PASwall" "PASblinds" "PASelectrical outlet" "PASbed" "PASbed" }
+
+# Note that there might be other objects in the image
+# for which ground truth data has not been provided.
+
+# Top left pixel co-ordinates : (0, 0)
+
+# Details for object 1 ("PASfloor")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 1 "PASfloor" : "PASfloor"
+Bounding box for object 1 "PASfloor" (Xmin, Ymin) - (Xmax, Ymax) : (1, 219) - (560, 425)
+
+# Details for object 2 ("PASwall")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 2 "PASwall" : "PASwall"
+Bounding box for object 2 "PASwall" (Xmin, Ymin) - (Xmax, Ymax) : (176, 1) - (560, 185)
+
+# Details for object 3 ("PASblinds")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 3 "PASblinds" : "PASblinds"
+Bounding box for object 3 "PASblinds" (Xmin, Ymin) - (Xmax, Ymax) : (1, 1) - (167, 190)
+
+# Details for object 4 ("PASelectrical outlet")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 4 "PASelectrical outlet" : "PASelectrical outlet"
+Bounding box for object 4 "PASelectrical outlet" (Xmin, Ymin) - (Xmax, Ymax) : (412, 143) - (423, 162)
+
+# Details for object 5 ("PASbed")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 5 "PASbed" : "PASbed"
+Bounding box for object 5 "PASbed" (Xmin, Ymin) - (Xmax, Ymax) : (55, 110) - (407, 356)
+
+# Details for object 6 ("PASbed")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 6 "PASbed" : "PASbed"
+Bounding box for object 6 "PASbed" (Xmin, Ymin) - (Xmax, Ymax) : (405, 134) - (560, 307)
+

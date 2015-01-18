@@ -1,0 +1,48 @@
+# PASCAL Annotation Version 1.00
+
+Image filename : "VOC2012/Images/0075.jpg"
+Image size (X x Y x C) : 560 x 425 x 3
+Database : "NYU Depth"
+Objects with ground truth : 6 { "PASwall" "PASwall" "PAScurtain" "PASclothes" "PASdresser" "PASwall decoration" }
+
+# Note that there might be other objects in the image
+# for which ground truth data has not been provided.
+
+# Top left pixel co-ordinates : (0, 0)
+
+# Details for object 1 ("PASwall")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 1 "PASwall" : "PASwall"
+Bounding box for object 1 "PASwall" (Xmin, Ymin) - (Xmax, Ymax) : (1, 1) - (280, 388)
+
+# Details for object 2 ("PASwall")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 2 "PASwall" : "PASwall"
+Bounding box for object 2 "PASwall" (Xmin, Ymin) - (Xmax, Ymax) : (347, 374) - (516, 425)
+
+# Details for object 3 ("PAScurtain")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 3 "PAScurtain" : "PAScurtain"
+Bounding box for object 3 "PAScurtain" (Xmin, Ymin) - (Xmax, Ymax) : (276, 1) - (560, 425)
+
+# Details for object 4 ("PASclothes")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 4 "PASclothes" : "PASclothes"
+Bounding box for object 4 "PASclothes" (Xmin, Ymin) - (Xmax, Ymax) : (162, 55) - (279, 107)
+
+# Details for object 5 ("PASdresser")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 5 "PASdresser" : "PASdresser"
+Bounding box for object 5 "PASdresser" (Xmin, Ymin) - (Xmax, Ymax) : (71, 94) - (346, 425)
+
+# Details for object 6 ("PASwall decoration")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 6 "PASwall decoration" : "PASwall decoration"
+Bounding box for object 6 "PASwall decoration" (Xmin, Ymin) - (Xmax, Ymax) : (72, 1) - (155, 97)
+

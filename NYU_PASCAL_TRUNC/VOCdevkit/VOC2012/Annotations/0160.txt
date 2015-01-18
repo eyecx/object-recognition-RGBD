@@ -1,0 +1,48 @@
+# PASCAL Annotation Version 1.00
+
+Image filename : "VOC2012/Images/0160.jpg"
+Image size (X x Y x C) : 560 x 425 x 3
+Database : "NYU Depth"
+Objects with ground truth : 6 { "PASpaper" "PASwall" "PASsofa" "PASclothes" "PASclothes" "PASshoe" }
+
+# Note that there might be other objects in the image
+# for which ground truth data has not been provided.
+
+# Top left pixel co-ordinates : (0, 0)
+
+# Details for object 1 ("PASpaper")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 1 "PASpaper" : "PASpaper"
+Bounding box for object 1 "PASpaper" (Xmin, Ymin) - (Xmax, Ymax) : (179, 255) - (312, 320)
+
+# Details for object 2 ("PASwall")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 2 "PASwall" : "PASwall"
+Bounding box for object 2 "PASwall" (Xmin, Ymin) - (Xmax, Ymax) : (1, 1) - (560, 425)
+
+# Details for object 3 ("PASsofa")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 3 "PASsofa" : "PASsofa"
+Bounding box for object 3 "PASsofa" (Xmin, Ymin) - (Xmax, Ymax) : (1, 170) - (358, 425)
+
+# Details for object 4 ("PASclothes")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 4 "PASclothes" : "PASclothes"
+Bounding box for object 4 "PASclothes" (Xmin, Ymin) - (Xmax, Ymax) : (1, 146) - (106, 240)
+
+# Details for object 5 ("PASclothes")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 5 "PASclothes" : "PASclothes"
+Bounding box for object 5 "PASclothes" (Xmin, Ymin) - (Xmax, Ymax) : (1, 269) - (164, 397)
+
+# Details for object 6 ("PASshoe")
+# Center point -- not available in other PASCAL databases -- refers
+# to person head center
+Original label for object 6 "PASshoe" : "PASshoe"
+Bounding box for object 6 "PASshoe" (Xmin, Ymin) - (Xmax, Ymax) : (411, 348) - (509, 425)
+
